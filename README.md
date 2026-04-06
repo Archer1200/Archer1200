@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Himanshu Kashyap
 
-<!--
-**Archer1200/Archer1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student 
+💻 Passionate Full Stack Developer
 
-Here are some ideas to get you started:
+🚀 I build web applications using the MERN stack and Python.
+I enjoy solving real-world problems and creating user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+### 🔧 Tech Stack  
+
+* Frontend: React.js, HTML, CSS, Tailwind CSS, Bootstrap  
+* Backend: Node.js, Express.js, REST APIs  
+* Database: MongoDB, MySQL  
+* Languages: JavaScript, Python, C  
+* Tools & Platforms: Git, GitHub, Docker, VS Code, Postman  
+* Libraries/Frameworks: OpenCV, MediaPipe, CVZone  
+
+
+### 🌱 Currently Learning
+
+* Advanced Backend Development
+* Docker & Kubernetes
+
+### 📫 Connect with me
+
+* E-mail: hk83818621115@gmail.com
+* LinkedIn: https://www.linkedin.com/in/himanshu-kashyap-6691992a1/
+
+⚡ "Consistency is the key to success."
