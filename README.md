@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Himanshu Kashyap </h1>
-  <p><i>🎓 Software Engineering Student 
+  <p><i>🎓 B.Tech Final Year Student 
 💻 Passionate Full Stack Developer
 </i></p>
 </div>
