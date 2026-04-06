@@ -1,7 +1,11 @@
-## 👋 Hi, I'm Himanshu Kashyap
-
-🎓 Software Engineering Student 
+<div align="center">
+  <h1>👋 Hi, I'm Himanshu Kashyap </h1>
+  <p><i>🎓 Software Engineering Student 
 💻 Passionate Full Stack Developer
+</i></p>
+</div>
+ 
+
 
 🚀 I build web applications using the MERN stack and Python.
 I enjoy solving real-world problems and creating user-friendly applications.
@@ -31,4 +35,8 @@ I enjoy solving real-world problems and creating user-friendly applications.
 * E-mail: hk83818621115@gmail.com
 * LinkedIn: https://www.linkedin.com/in/himanshu-kashyap-6691992a1/
 
-⚡ "Consistency is the key to success."
+---
+<p align="center">
+  <i>⚡ "Consistency is the key to success."</i>
+</p>
+
