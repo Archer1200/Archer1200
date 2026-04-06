@@ -6,7 +6,7 @@
 🚀 I build web applications using the MERN stack and Python.
 I enjoy solving real-world problems and creating user-friendly applications.
 
-### 🔧 Tech Stack
+---
 
 ### 🔧 Tech Stack  
 
@@ -17,11 +17,14 @@ I enjoy solving real-world problems and creating user-friendly applications.
 * Tools & Platforms: Git, GitHub, Docker, VS Code, Postman  
 * Libraries/Frameworks: OpenCV, MediaPipe, CVZone  
 
+---
 
 ### 🌱 Currently Learning
 
 * Advanced Backend Development
 * Docker & Kubernetes
+
+---
 
 ### 📫 Connect with me
 
